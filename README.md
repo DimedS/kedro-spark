@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is your new Kedro project with PySpark setup, which was generated using `kedro 1.0.0`.
+This is your new Kedro project with PySpark setup, which was generated using `kedro 1.1.1`.
 
 Take a look at the [Kedro documentation](https://docs.kedro.org) to get started.
 
